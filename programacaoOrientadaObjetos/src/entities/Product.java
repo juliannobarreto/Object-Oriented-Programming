@@ -44,7 +44,5 @@ public class Product {
 			+ quantity
 			+ " unis, Total: $ "
 			+ String.format("%.2f", totaValueInStock());
-			
 	}
-	
 }

@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 import entities.Student;
 
-public class Programmmmm {
+public class ProgramStudent {
 	
 	public static void main(String[] args) {
 		
